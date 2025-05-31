@@ -28,12 +28,6 @@ An AI-powered mobile/web application that helps farmers, gardeners, and agronomi
 
 ---
 
-## 📸 Sample Screenshots
-
-(Add screenshots or demo GIFs here)
-
----
-
 ## 🛠 Installation
 
 ### Clone the repo
